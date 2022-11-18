@@ -1,3 +1,5 @@
+![Photo by Monika Grabkowska on Unsplash](https://user-images.githubusercontent.com/2342458/202707543-0d872d00-f686-4d84-860f-f0b9e3814d5e.png)
+
 # Kinsta - Hello World - Static Site With Gatsby
 An example of how to deploy a static site built with Gatsby on Kinsta App Hosting services.
 
